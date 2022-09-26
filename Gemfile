@@ -55,6 +55,8 @@ gem "sassc-rails"
 
 gem 'dotenv-rails', '~> 2.1', '>= 2.1.1'
 
+gem 'cloudinary', '~> 1.23'
+
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
